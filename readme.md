@@ -2,7 +2,7 @@
 
 Apart from master, this repo contains four branches:
   * **Fibonacci**:
-    * Examples of different techniques for the same problem: 
+    * Examples of different solutions for the same problem: 
       * Iteration
       * Recurision
       * Iter with Memoization
