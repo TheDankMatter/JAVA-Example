@@ -1,11 +1,12 @@
 # Java programming example repo
 
 Apart from master, this repo contains four branches:
- * Fibonacci
-   * Examples of diffrent techiniques for the same problem: 
+  * Fibonacci:
+    * Examples of different techniques for the same problem: 
       * Iteration
       * Recurision
-      * Iter with Memoization 
+      * Iter with Memoization
+    * All implementations tested with implemented tests
  * OOP
  * Spring
  * Streams
