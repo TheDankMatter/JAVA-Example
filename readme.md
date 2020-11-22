@@ -1,7 +1,7 @@
 # Java programming examples repo
 
 Apart from master, this repo contains four branches:
-  * **Fibonacci:
+  * **Fibonacci**:
     * Examples of different techniques for the same problem: 
       * Iteration
       * Recurision
