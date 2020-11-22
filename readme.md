@@ -1,6 +1,6 @@
 # Java programming examples repo
 
-Apart from master, this repo contains four branches:
+Apart from the master, this repo contains four branches:
   * **Fibonacci**:
     * Examples of different solutions for the same problem: 
       * Iteration
